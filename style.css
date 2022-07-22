@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    background-image: url(./balance-110850.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    color:white;
+    text-align: center;
+    margin-top: 2 rem;
+    font-size: 45px;
+}
+.card_section{
+    border: 1px solid white;
+    margin-top: 5rem;
+    padding: 2rem;
+    border-radius: 50px;
+    color: beige;
+    
+}
+#search_box{
+    border: none;
+    outline: none;
+    padding: 2rem,5rem;
+    border-radius: 18px;
+}
+.search-button{
+    height:2,5rem;
+    width: 2,5rem;
+    border-radius: 50%;
+    border: none;
+}
